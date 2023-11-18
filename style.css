@@ -1,0 +1,15 @@
+body {
+    margin: 10px 80px;
+}
+/* margin: top right bottom left */
+
+h1 {
+    color: aqua;
+    background: black;
+    display: inline-block;
+    padding: 5px 10px;
+}
+
+img {
+    max-width: 100%;
+}
